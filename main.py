@@ -338,10 +338,6 @@ md5_hashes = [
     "be8043abab3f0d26363856f4c61da78e",
     "fc2a126a389d9eb7b16b619b64a2a573"
 ]
-
-# Note: The document lists 321 MD5 hashes, but for brevity in this script, I've included all provided in the query.
-# If more are needed, extend the list accordingly.
-
 # List of SHA256 hashes from the Akira IOCs
 sha256_hashes = [
     "78d75669390e4177597faf9271ce3ad3a16a3652e145913dbfa9a5951972fcb0",
